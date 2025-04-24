@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="assets/topiq.png" alt="TopiQ Logo" width="100%" height="10%" />
+  <img src="assets/topiq.png" alt="TopiQ Logo" style="width: 800px; height: 400px;" />
 </p>
+
+
+
 
 This repository contains a Jupyter Notebook that demonstrates topic modeling on research paper abstracts using Large Language Models (LLMs). The project extends beyond topic modeling to include advanced graph analytics, providing deep insights into the relationships between extracted topics.
 
